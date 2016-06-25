@@ -14,7 +14,7 @@ void main()
       cout<<"Please give the %d th element<<i\n"
       cin>>a[i];
       individualNumber = a[i];
-      if((i+1)%2==0)
+      if((i+1)%2==0)        /* to find if the index is in odd or even position */
        sum=(individualNumber*individualNumber)+sum;
       else
        sum=(individualNumber*individualNumber*individualNumber)+sum;
