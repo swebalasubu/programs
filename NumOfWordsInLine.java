@@ -5,7 +5,7 @@ public class NumOfWordsInLine
   public static void main(String[] args) 
   {
        
-    String inputString = "a  dvfxv cvcxv cvcxv   dvcxvx ";      
+    String inputString = "this is a program to find the number of words in a line ";      
        
        
        
