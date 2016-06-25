@@ -17,13 +17,11 @@ bool powerOfTwo (int x)
 
 int main()
 
-{
-  powerOfTwo(17)? printf("Yes\n"): printf("No\n");
-  powerOfTwo(-16)? printf("Yes\n"): printf("No\n");
-  
-  powerOfTwo(4)? printf("Yes\n"): printf("No\n");
-   powerOfTwo(19)? printf("Yes\n"): printf("No\n");
-  powerOfTwo(8)? printf("Yes\n"): printf("No\n");
+{      int x;
+	printf("enter the number:");
+	scanf("%d",&x);
+  powerOfTwo(x)? printf("Yes\n"): printf("No\n");
+ 
  
   return 0;
 
