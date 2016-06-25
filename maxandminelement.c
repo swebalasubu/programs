@@ -84,7 +84,6 @@ printf("enter the elements of the array\n");
 
  }
 
-printf(" %d  %d",a[0],a[1]); 
 
 printf("Maximum %d \n Minimum %d",max,min);
  
