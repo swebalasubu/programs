@@ -84,7 +84,7 @@ printf("enter the elements of the array\n");
 
  }
 
-printf(" %d  %d",a[0],a[1]); 
+ 
 
 printf("sum of the Maximum  and Minimum elements is %d",max+min);
  
